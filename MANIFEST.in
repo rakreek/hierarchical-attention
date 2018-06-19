@@ -1,0 +1,2 @@
+include fntk/tests/test_data/*
+include fntk/data/*
