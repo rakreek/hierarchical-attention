@@ -5,7 +5,7 @@ setup(
     name='hierarchical_attention',
     version='0',
     description='Hierarchical Attention Network',
-    url='https://www.github.com/rakreek/hierarchical_attention',
+    url='https://www.github.com/rakreek/hierarchical-attention',
     author='Andy Kreek, Kourtney Traina, Paul Koester',
     packages=find_packages(),
     install_requires=[
